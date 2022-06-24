@@ -13,8 +13,8 @@ export default function Home() {
       <main>
         <Header title="Welcome to my app!" />
         <p className="description">
-          Get started by editing <code>pages/index.js</code>
-        </p>
+          We summarize crypto white papers, so that you don/'t need to do the hardwork! 
+    </p>
       </main>
 
       <Footer />
