@@ -13,7 +13,7 @@ export default function Home() {
       <main>
         <Header title="Welcome to my app!" />
         <p className="description">
-          We summarize crypto white papers, so that you don/'t need to do the hardwork! 
+          Summarizing crypto white papers 
     </p>
       </main>
 
